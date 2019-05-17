@@ -20,6 +20,13 @@ index_list = {'all_index': 'All Add-Ons',
               'file_types_index': 'Add-Ons for saving files for other programs',
               'programming_index': 'Add-Ons for programming language IDEs'}
 
+# List of index descriptions
+index_list_descriptions = ['All Add-Ons',
+                           'Top Ten Add-Ons',
+                           'Add-Ons by JK',
+                           'Add-Ons for saving files for other programs',
+                           'Add-Ons for programming langauge IDEs']
+
 # All index
 all_index = {'name': 'description',
              'name': 'description'}
