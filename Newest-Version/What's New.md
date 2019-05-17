@@ -21,7 +21,7 @@ We have added 15 pre-installed add-ons:
 - [x] [HTML](/Docs/HTML.md)
 - [x] [JK Dashboard Extension](/Docs/JK%20Dashboard%20Extension.md)
 - [x] [JK PyApp](/Docs/JK%20PyApp.md)
-- [x] [Java](/Docs/Java.md)
+- [x] [JavaScript](/Docs/JavaScript.md)
 - [x] [Markdown](/Docs/Markdown.md)
 - [x] [Mode creator](/Docs/Mode%20Creator.md)
 - [x] [New from file](/Docs/New%20From%20File.md)
