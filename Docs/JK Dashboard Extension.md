@@ -7,3 +7,4 @@ AppleScript|Add-on|1.0.0
   
 The __JK Dashboard Extension add-on__ features:  
 - ___Keyword highlighting___
+- ___JK Dashboard Extension Documentation___
