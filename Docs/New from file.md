@@ -3,7 +3,7 @@
 ---
 Name|Type|Version
 ---|---|---
-New From File|Add-on|1.0.0
+New From File|Built-In|1.0.0
 
 The __New From File add-on__ features:  
 - ___Installing JK Texty Add-On Files (.taddon)___
