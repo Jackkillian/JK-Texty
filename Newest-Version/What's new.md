@@ -15,21 +15,21 @@ There have been no changes as this is the first version.
 ---
 ### Add-Ons
 We have added 15 pre-installed add-ons:
-- [AppleScript](/Docs/AppleScript.md)
-- [C](/Docs/C.md)
-- [C++](/Docs/C++.md)
-- [HTML](/Docs/HTML.md)
-- [JK Dashboard Extension](/Docs/JK%20Dashboard%20Extension.md)
-- [JK PyApp](/Docs/JK%20PyApp.md)
-- [Java](/Docs/Java.md)
-- [Markdown](/Docs/Markdown.md)
-- [Mode creator](/Docs/Mode%20Creator.md)
-- [New from file](/Docs/New%20From%20File.md)
-- [New from store](/Docs/New%20From%20Store.md)
-- [Python 2](/Docs/Python%202.md)
-- [Python 3](/Docs/Python%203.md)
-- [Python GUI App](/Docs/Python%20GUI%20App.md)
-- [Ruby](/Docs/Ruby.md)
+- [x] [AppleScript](/Docs/AppleScript.md)
+- [x] [C](/Docs/C.md)
+- [x] [C++](/Docs/C++.md)
+- [x] [HTML](/Docs/HTML.md)
+- [x] [JK Dashboard Extension](/Docs/JK%20Dashboard%20Extension.md)
+- [x] [JK PyApp](/Docs/JK%20PyApp.md)
+- [x] [Java](/Docs/Java.md)
+- [x] [Markdown](/Docs/Markdown.md)
+- [x] [Mode creator](/Docs/Mode%20Creator.md)
+- [x] [New from file](/Docs/New%20From%20File.md)
+- [x] [New from store](/Docs/New%20From%20Store.md)
+- [x] [Python 2](/Docs/Python%202.md)
+- [x] [Python 3](/Docs/Python%203.md)
+- [x] [Python GUI App](/Docs/Python%20GUI%20App.md)
+- [x] [Ruby](/Docs/Ruby.md)
 ---
 ### Menubar
 We have also added 16 menubar functions:
