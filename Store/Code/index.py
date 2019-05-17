@@ -13,7 +13,7 @@ Each index contains a name and a description.
 # Statuses: 'True' (up and running) 'False' (error) 'Empty' (empty store)
 store_status = 'Empty'
 
-# List of indexes (so Texty will not have to be updated every time a new index is made)
+# List of indexes
 index_list = {'all_index': 'All Add-Ons',
               'popular_index': 'Top Ten Add-Ons',
               'by_jk_index': 'Add-Ons by JK',
