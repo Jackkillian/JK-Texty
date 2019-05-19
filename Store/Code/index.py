@@ -28,7 +28,7 @@ index_list = {'all_index': 'All Add-Ons',
 
 # All index
 all_index = {'all1': 'description',
-             'all2': 'description'}
+             'Jack\'s_Extension': 'description'}
 
 # Top ten popular add-ons
 popular_index = {'popular1': 'description',
