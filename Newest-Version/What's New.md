@@ -14,7 +14,7 @@ There have been no changes as this is the first version.
 ## Additions
 ---
 ### Add-Ons
-We have added 15 pre-installed add-ons:
+We have added 17 pre-installed add-ons:
 - [x] [AppleScript](/Docs/AppleScript.md)
 - [x] [C](/Docs/C.md)
 - [x] [C++](/Docs/C++.md)
@@ -26,9 +26,11 @@ We have added 15 pre-installed add-ons:
 - [x] [Mode creator](/Docs/Mode%20Creator.md)
 - [x] [New from file](/Docs/New%20From%20File.md)
 - [x] [New from store](/Docs/New%20From%20Store.md)
+- [x] Plain Text
 - [x] [Python 2](/Docs/Python%202.md)
 - [x] [Python 3](/Docs/Python%203.md)
 - [x] [Python GUI App](/Docs/Python%20GUI%20App.md)
+- [x] Rich Text
 - [x] [Ruby](/Docs/Ruby.md)
 ---
 ### Menubar
