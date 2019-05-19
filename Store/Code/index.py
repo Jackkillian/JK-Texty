@@ -27,29 +27,29 @@ index_list = {'all_index': 'All Add-Ons',
               'programming_index': 'Add-Ons for programming language IDEs'}
 
 # All index
-all_index = {'name': 'description',
-             'name': 'description'}
+all_index = {'all1': 'description',
+             'all2': 'description'}
 
 # Top ten popular add-ons
-popular_index = {'name': 'description',
-                 'name': 'description',
-                 'name': 'description',
-                 'name': 'description',
-                 'name': 'description',
-                 'name': 'description',
-                 'name': 'description',
-                 'name': 'description',
-                 'name': 'description',
-                 'name': 'description'}
+popular_index = {'popular1': 'description',
+                 'popular2': 'description',
+                 'popular3': 'description',
+                 'popular4': 'description',
+                 'popular5': 'description',
+                 'popular6': 'description',
+                 'popular7': 'description',
+                 'popular8': 'description',
+                 'popular9': 'description',
+                 'popular10': 'description'}
 
 # By JK (Jackkillian) index
-by_jk_index = {'name': 'description',
-               'name': 'description'}
+by_jk_index = {'by_jk1': 'description',
+               'by_jk2': 'description'}
 
 # File Types index
-file_types_index = {'name': 'description',
-                    'name': 'description'}
+file_types_index = {'file_types1': 'description',
+                    'file_types2': 'description'}
 
 # Programming languges index
-programming_index = {'name': 'description',
-                     'name': 'description'}
+programming_index = {'programming1': 'description',
+                     'programming2': 'description'}
