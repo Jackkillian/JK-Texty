@@ -11,7 +11,7 @@ Each index contains a name and a description.
 """
 # Store status (if not good, Texty will give an error and not open the store)
 # Statuses: 'True' (up and running) 'False' (error) 'Empty' (empty store) 'Discontinued' (the store is discontinued)
-store_status = 'True'
+store_status = 'Empty'
 
 # Description for 'False' store status
 false_description = 'There is nothing wrong with the store'
