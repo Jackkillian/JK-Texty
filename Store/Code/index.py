@@ -11,7 +11,7 @@ Each index contains a name and a description.
 """
 # Store status (if not good, Texty will give an error and not open the store)
 # Statuses: 'True' (up and running) 'False' (error) 'Empty' (empty store) 'Discontinued' (the store is discontinued)
-store_status = 'Empty'
+store_status = 'True'
 
 # Description for 'False' store status
 false_description = 'There is nothing wrong with the store'
@@ -27,29 +27,65 @@ index_list = {'all_index': 'All Add-Ons',
               'programming_index': 'Add-Ons for programming language IDEs'}
 
 # All index
-all_index = {'all1': 'description',
-             'Jack\'s_Extension': 'description'}
+all_index = {'AppleScript': 'Write AppleScript programes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+             'C': 'Write C programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+             'C++': 'Write C++ programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+             'HTML': 'Write HTML programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+             'JK Dashboard Extension': 'Write JK Dashboard Extensions with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting and JK Dashboard Making documentation.',
+             'JK PyApp': 'Write JK PyApps with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting and Making JK PyApp documentation.',
+             'JavaScript': 'Write JavaScript programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+             'Markdown': 'Write Markdown files with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting and a Markdown file previewer.',
+             'Python': 'Write Python programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+             'Python GUI App': 'Write Python GUI Apps with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting and Python GUI App documentation.',
+             'Plain Text': 'Write Plain Text files with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.',
+             'Rich Text': 'Write Rich Text fils with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures font and color options.',
+             'Ruby': 'Write Ruby programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.'}
 
 # Top ten popular add-ons
-popular_index = {'popular1': 'description',
-                 'popular2': 'description',
-                 'popular3': 'description',
-                 'popular4': 'description',
-                 'popular5': 'description',
-                 'popular6': 'description',
-                 'popular7': 'description',
-                 'popular8': 'description',
-                 'popular9': 'description',
-                 'popular10': 'description'}
+popular_index = {'AppleScript': 'Write AppleScript programes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+                 'HTML': 'Write HTML programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+                 'JK Dashboard Extension': 'Write JK Dashboard Extensions with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting and JK Dashboard Making documentation.',
+                 'JK PyApp': 'Write JK PyApps with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting and Making JK PyApp documentation.',
+                 'JavaScript': 'Write JavaScript programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+                 'Markdown': 'Write Markdown files with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting and a Markdown file previewer.',
+                 'Python': 'Write Python programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+                 'Python GUI App': 'Write Python GUI Apps with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting and Python GUI App documentation.',
+                 'Plain Text': 'Write Plain Text files with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.',
+                 'Rich Text': 'Write Rich Text fils with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures font and color options.'}
 
 # By JK (Jackkillian) index
-by_jk_index = {'by_jk1': 'description',
-               'by_jk2': 'description'}
+by_jk_index = {'AppleScript': 'Write AppleScript programes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+               'C': 'Write C programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+               'C++': 'Write C++ programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+               'HTML': 'Write HTML programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+               'JK Dashboard Extension': 'Write JK Dashboard Extensions with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting and JK Dashboard Making documentation.',
+               'JK PyApp': 'Write JK PyApps with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting and Making JK PyApp documentation.',
+               'JavaScript': 'Write JavaScript programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+               'Markdown': 'Write Markdown files with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting and a Markdown file previewer.',
+               'Python': 'Write Python programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+               'Python GUI App': 'Write Python GUI Apps with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting and Python GUI App documentation.',
+               'Plain Text': 'Write Plain Text files with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.',
+               'Rich Text': 'Write Rich Text fils with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures font and color options.',
+               'Ruby': 'Write Ruby programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.'}
 
 # File Types index
+file_types_index = {'None' : 'There are no file type add-ons yet.'}
+"""
 file_types_index = {'file_types1': 'description',
                     'file_types2': 'description'}
+"""
 
 # Programming languges index
-programming_index = {'programming1': 'description',
-                     'programming2': 'description'}
+programming_index = {'AppleScript': 'Write AppleScript programes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+                     'C': 'Write C programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+                     'C++': 'Write C++ programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+                     'HTML': 'Write HTML programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+                     'JK Dashboard Extension': 'Write JK Dashboard Extensions with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting and JK Dashboard Making documentation.',
+                     'JK PyApp': 'Write JK PyApps with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting and Making JK PyApp documentation.',
+                     'JavaScript': 'Write JavaScript programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+                     'Markdown': 'Write Markdown files with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting and a Markdown file previewer.',
+                     'Python': 'Write Python programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.',
+                     'Python GUI App': 'Write Python GUI Apps with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting and Python GUI App documentation.',
+                     'Plain Text': 'Write Plain Text files with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.',
+                     'Rich Text': 'Write Rich Text fils with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures font and color options.',
+                     'Ruby': 'Write Ruby programmes with this add-on! It should be built-in, but if it isn\'t,\nyou can install it here.\nFeatures basic syntax highlighting.'}
