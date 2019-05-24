@@ -6,10 +6,10 @@ License:  MIT License
 """
 
 # List of all users
-all_users = ['']
+all_users = ['Jackkillian']
 
 # User To Notify
-notify_user = 'None'
+notify_user = 'Jackkillian'
 
 # What to notify
-notify_msg = 'None'
+notify_msg = 'Your username has been created successfully.'
