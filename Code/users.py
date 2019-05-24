@@ -6,7 +6,7 @@ License:  MIT License
 """
 
 # List of all users
-all_users = ['Jackkillian']
+all_users = ['']
 
 # User To Notify
 notify_user = 'Jackkillian'
