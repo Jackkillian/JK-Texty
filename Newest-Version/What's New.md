@@ -40,8 +40,8 @@ Texty|File|Edit|Mode|Help
 ---|---|---|---|---
 About|Open|||What's new in version 1.0.0
 Settings|New|||Texty Help
-Check for updates||||
-Quit|Save|||
+Check for updates|Save|||
+Quit||||
 ---
 ### User Guide
 Also, we added a [Texty User Guide](/blob/master/Texty%20Guide.html):  
