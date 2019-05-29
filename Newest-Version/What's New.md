@@ -38,11 +38,10 @@ We have also added 16 menubar functions:
   
 Texty|File|Edit|Mode|Help
 ---|---|---|---|---
-About|Open|Copy|Change mode >|What's new in version 1.0.0
-Settings|New|Paste|Mode maker|Texty Help
-Check for updates|[seporator]||New from file|
-Quit|Save||New from store|
-||Save as
+About|Open|||What's new in version 1.0.0
+Settings|New|||Texty Help
+Check for updates||||
+Quit|Save|||
 ---
 ### User Guide
 Also, we added a [Texty User Guide](/blob/master/Texty%20Guide.html):  
